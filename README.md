@@ -77,3 +77,4 @@ Thanks to the following companies to help us to achieve our goals providing free
 # Contributing
 
 Read the [contribution guidelines](./CONTRIBUTING.md) before start.
+THANKS FOR READING THE DOCUMENTATION
